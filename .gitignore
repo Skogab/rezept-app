@@ -134,3 +134,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Die .env-Datei sollte nicht in das Repository eingecheckt werden, da sie sensible Informationen enthalten kann.
+.env
